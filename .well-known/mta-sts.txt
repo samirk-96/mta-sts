@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mail.criminaldefence.co.uk
 max_age: 86401
